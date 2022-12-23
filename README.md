@@ -1,13 +1,13 @@
-[![](https://img.shields.io/badge/PDF-Download-1abc9c?style=for-the-badge)](https://github.com/sladkoff/resume/releases/latest/download/leonid_koftun_resume.pdf) &nbsp; [![](https://img.shields.io/badge/leonidkoftun-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonid-koftun/) &nbsp; [![](https://img.shields.io/badge/sladkovik-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sladkovik) &nbsp; [![](https://img.shields.io/badge/sladkoff2-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sladkoff2/)
+[![](https://img.shields.io/badge/PDF-Download-1abc9c?style=for-the-badge)](https://github.com/sladkoff/resume/releases/latest/download/jason_evans_resume.pdf) &nbsp; [![](https://img.shields.io/badge/jasonevans-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-evans1/) &nbsp; [![](https://img.shields.io/badge/jasonevans1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jasonevans1)
 
 
-# Leonid Koftun
+# Jason Evans
 
-[leonid.koftun@gmail.com](mailto:leonid.koftun@gmail.com) // from Munich, Bavaria // speaks English, German, Russian and French
+[jason@jasonevans.xyz](mailto:jason@jasonevans@xyz) // from Grimes, Iowa
 
 ## Professional Experience
 
-### Software Engineer - Device Insight GmbH, _Munich, December 2017 - present_
+### Magento Development Manager - Merkle, _Remote, December 2021 - present_
 
 - Delivered features for more than five Industrial IoT projects in the sectors: Automotive, Building Management and Energy Optimization.
 - Designed, developed, tested and maintained micro- and nano-services for real-time data processing use-cases. (Java, Kotlin, Spring Boot, Kafka, Docker, Kubernetes, AKS, Postgres, Cassandra, Azure Functions, Azure Event Hubs, Typescript)
@@ -15,11 +15,11 @@
 - Led designs for distributed software components, systems and features.
 - Ensured availability of services and infrastructure by resolving incidents while on-call. (Grafana, Prometheus, Splunk)
 
-### Freelance Software Engineer - _March 2013 - present_
+### Magento Team Lead - DEG, _Remote, _July 2014 - December 2021_
 
 - Designed, implemented and launched a MVP for a Cloud-based childcare management software. (Digital Ocean Cloud, Kubernetes, Auth0, Stripe, Sendgrid, Next.js, NestJS, TypeScript, TypeORM, Flux CD, Cypress)
 
-### Software Developer - SUBSEQ.NET GmbH, _Munich, October 2013 - November 2017_
+### Senior Systems Consultant - CDS Global, _Des Moines Iowa, May 1997 - July 2014_
 
 - Designed reusable modules for a company internal web application framework based on Spring Boot, allowing for rapid bootstrapping of new apps. (Spring Boot, Postgres, Ebean ORM, Maven, Javascript)
 - Created, launched and maintained multiple web apps (“insta.vote”, “ipwatch.dog”, “nxt.is”) based on in-house web application framework (Java 8, Spring Boot, Ebean ORM, Postgres, Freemarker, Vue JS, Bootstrap, WebSockets, Webpack)
@@ -27,20 +27,20 @@
 - Led the rewrite of the legacy Android app “fishpixl” and launched it successfully to the Google Play Store (React Native, Android, Redux)
 - Set up and maintained Docker Cloud linux nodes. Maintained the development infrastructure including ELK Stack, Prometheus, Grafana, Gitlab CE. 
 
+## Certifications
+
+AWS Certified Solutions Architect – Associate Level, _October 2022_
+
+Adobe Commerce Certified Expert Front End Developer, _February 2020_
+
+Adobe Commerce Certified Expert Developer, _April 2018_ 
+
 ## Education 
 
-### Werner-von-Siemens Gymnasium, _Munich, July 2013_
+### University of Northern Iowa, _Cedar Falls, Iowa, 1997_
 
-Higher education entrance qualification / BAC (Final Grade: 2.7)
-
-### Ludwig-Maximilians-Universität, _Munich, September 2013 - August 2015_
-
-B. Sc. Computer Science (partial)
-
-### Wilhelm-Büchner-Fernhochschule, _September 2016 - present_
-
-B. Sc. Computer Science (partial)
+Bachelor of Arts
 
 ## Interests
 
-Weight lifting, gardening, pour art, hiking, swimming, 3D printing, DIY, cars, mental health, cooking, music, poker
+Family time, Golfing, Podcasts, Audiobooks, Movies, Video Games, Sports, Biking, Gardening 
