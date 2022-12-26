@@ -26,7 +26,7 @@
 
 ### Senior Systems Consultant - CDS Global, _Des Moines Iowa, May 1997 - July 2014_
 
-- Developer on the enterprise architecture team. Lead the research of moving existing applications into the cloud. 
+- Developer on the enterprise architecture team. Lead the research of moving existing applications into the cloud. (PHP, Java)
 - Helped in the design of new features for an application built on Magento. 
 - Trained and mentored interns and legacy developers on Magento development and Scrum.
 - Led the creation of a continuous delivery build pipeline for Magento. (Jenkins, Apache Ant, VMware VSphere).
