@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/PDF-Download-1abc9c?style=for-the-badge)](https://github.com/sladkoff/resume/releases/latest/download/jason_evans_resume.pdf) &nbsp; [![](https://img.shields.io/badge/jasonevans-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-evans1/) &nbsp; [![](https://img.shields.io/badge/jasonevans1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jasonevans1)
+[![](https://img.shields.io/badge/PDF-Download-1abc9c?style=for-the-badge)](https://github.com/jasonevans1/resume/releases/latest/download/jason_evans_resume.pdf) &nbsp; [![](https://img.shields.io/badge/jasonevans-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-evans1/) &nbsp; [![](https://img.shields.io/badge/jasonevans1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jasonevans1)
 
 
 # Jason Evans
@@ -9,31 +9,36 @@
 
 ### Magento Development Manager - Merkle, _Remote, December 2021 - present_
 
-- Delivered features for more than five Industrial IoT projects in the sectors: Automotive, Building Management and Energy Optimization.
-- Designed, developed, tested and maintained micro- and nano-services for real-time data processing use-cases. (Java, Kotlin, Spring Boot, Kafka, Docker, Kubernetes, AKS, Postgres, Cassandra, Azure Functions, Azure Event Hubs, Typescript)
-- Enabled faster release cycles by establishing continuous deployment pipelines. (Gitlab CI, Github Actions, Flux CD, IaC, GitOps)
-- Led designs for distributed software components, systems and features.
-- Ensured availability of services and infrastructure by resolving incidents while on-call. (Grafana, Prometheus, Splunk)
+- Led a team of 9 full time Magento engineers. Led career development for each engineer by conducting year-end performance reviews, bi-weekly one on one meetings and weekly team meetings.
+- Led multiple Adobe Commerce developer certification exam study groups.
+- Helped build a team of offshore Magento engineers by interviewing candidates from India.
+- Designed and developed a Bitbucket pipeline to run automated tests when a pull request is created. (Bitbucket Pipelines, Git, Docker, PHP CodeSniffer, PHPMD, PHPUnit, Cypress, Blackfire Tests)
+- Ensured availability of services and performance improvements of multiple Magento sites. (New Relic, Blackfire.io)
+- Launched a Magento upgrade from 2.2 to 2.4 for a highly customized Magento site. Built new AWS environments and a new Github actions pipeline as part oof this upgrade project. (PHP, Apache, MySQL, Linux, Github Actions, PHP Deployer, Docker, AWS EC2, AWS RDS, AWS Cloudfront, AWS OpenSearch, AWS Elasticache) 
+- Assisted Magento engineers with launching and maintaining Adobe Commerce Cloud sites.
 
 ### Magento Team Lead - DEG, _Remote, _July 2014 - December 2021_
 
-- Designed, implemented and launched a MVP for a Cloud-based childcare management software. (Digital Ocean Cloud, Kubernetes, Auth0, Stripe, Sendgrid, Next.js, NestJS, TypeScript, TypeORM, Flux CD, Cypress)
+- Team lead of the Magento Engineer team (7 engineers) at DEG. 
+- Assisted and mentored engineers in designing and implementing Magento sites and extensions.
+- Improved Magento local environment setup and onboarding using Docker environments. (Docker, Warden)
+- Responsible for code builds and deployments to production environments. (Jenkins, Docker, Linux, Vagrant, Packer, Capistrano, Composer) 
 
 ### Senior Systems Consultant - CDS Global, _Des Moines Iowa, May 1997 - July 2014_
 
-- Designed reusable modules for a company internal web application framework based on Spring Boot, allowing for rapid bootstrapping of new apps. (Spring Boot, Postgres, Ebean ORM, Maven, Javascript)
-- Created, launched and maintained multiple web apps (“insta.vote”, “ipwatch.dog”, “nxt.is”) based on in-house web application framework (Java 8, Spring Boot, Ebean ORM, Postgres, Freemarker, Vue JS, Bootstrap, WebSockets, Webpack)
-- Created a prototype web app for comparing large Excel catalog files which resulted in the client’s successful acquisition. Conducted workshops with the client. (Java 8, Spring Boot, Jooq, Postgres, Apache POI, Bootstrap)
-- Led the rewrite of the legacy Android app “fishpixl” and launched it successfully to the Google Play Store (React Native, Android, Redux)
-- Set up and maintained Docker Cloud linux nodes. Maintained the development infrastructure including ELK Stack, Prometheus, Grafana, Gitlab CE. 
+- Developer on the enterprise architecture team. Lead the research of moving existing applications into the cloud. 
+- Helped in the design of new features for an application built on Magento. 
+- Trained and mentored interns and legacy developers on Magento development and Scrum.
+- Led the creation of a continuous delivery build pipeline for Magento. (Jenkins, Apache Ant, VMware VSphere).
+- Led the design and implementation of numerous projects on the WebSphere Commerce platform for 8 years. 
 
 ## Certifications
 
-AWS Certified Solutions Architect – Associate Level, _October 2022_
+[AWS Certified Solutions Architect – Associate Level](https://www.credly.com/badges/1edd0b05-5530-4089-919b-7d878c85fdca), _October 2022_
 
-Adobe Commerce Certified Expert Front End Developer, _February 2020_
+[Adobe Commerce Certified Expert Front End Developer](https://www.credly.com/badges/c12697d1-3dd4-4642-8519-3bd34edf6c83/public_url), _February 2020_
 
-Adobe Commerce Certified Expert Developer, _April 2018_ 
+[Adobe Commerce Certified Expert Developer](https://www.credly.com/badges/be17864e-cc41-4951-a5c6-5051d9cf2735), _April 2018_ 
 
 ## Education 
 
@@ -44,3 +49,5 @@ Bachelor of Arts
 ## Interests
 
 Family time, Golfing, Podcasts, Audiobooks, Movies, Video Games, Sports, Biking, Gardening 
+
+
