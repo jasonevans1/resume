@@ -13,24 +13,23 @@
 - Led multiple Adobe Commerce developer certification exam study groups.
 - Helped build a team of offshore Magento engineers by interviewing candidates from India.
 - Designed and developed a Bitbucket pipeline to run automated tests when a pull request is created. (Bitbucket Pipelines, Git, Docker, PHP CodeSniffer, PHPMD, PHPUnit, Cypress, Blackfire Tests)
-- Ensured availability of services and performance improvements of multiple Magento sites. (New Relic, Blackfire.io)
-- Launched a Magento upgrade from 2.2 to 2.4 for a highly customized Magento site. Built new AWS environments and a new Github actions pipeline as part oof this upgrade project. (PHP, Apache, MySQL, Linux, Github Actions, PHP Deployer, Docker, AWS EC2, AWS RDS, AWS Cloudfront, AWS OpenSearch, AWS Elasticache) 
+- Ensured availability of services and performance of multiple Magento sites. (New Relic, Blackfire.io)
+- Launched a Magento upgrade from 2.2 to 2.4 for a highly customized Magento site. Built new AWS environments and a new Github actions pipeline as part of this project. (PHP, Apache, MySQL, Linux, Github Actions, PHP Deployer, Docker, AWS EC2, AWS RDS, AWS Cloudfront, AWS OpenSearch, AWS Elasticache) 
 - Assisted Magento engineers with launching and maintaining Adobe Commerce Cloud sites.
 
 ### Magento Team Lead - DEG, _Remote, _July 2014 - December 2021_
 
-- Team lead of the Magento Engineer team (7 engineers) at DEG. 
+- Team lead of the Magento Engineer team at DEG. 
 - Assisted and mentored engineers in designing and implementing Magento sites and extensions.
 - Improved Magento local environment setup and onboarding using Docker environments. (Docker, Warden)
 - Responsible for code builds and deployments to production environments. (Jenkins, Docker, Linux, Vagrant, Packer, Capistrano, Composer) 
 
 ### Senior Systems Consultant - CDS Global, _Des Moines Iowa, May 1997 - July 2014_
 
-- Developer on the enterprise architecture team. Lead the research of moving existing applications into the cloud. (PHP, Java)
-- Helped in the design of new features for an application built on Magento. 
+- Developer on the enterprise architecture team. Led the research of moving existing applications into the cloud. (PHP, Java)
 - Trained and mentored interns and legacy developers on Magento development and Scrum.
 - Led the creation of a continuous delivery build pipeline for Magento. (Jenkins, Apache Ant, VMware VSphere).
-- Led the design and implementation of numerous projects on the WebSphere Commerce platform for 8 years. 
+- Led the design and implementation of numerous projects on the WebSphere Commerce platform. 
 
 ## Certifications
 
@@ -48,6 +47,6 @@ Bachelor of Arts
 
 ## Interests
 
-Family time, Golfing, Podcasts, Audiobooks, Movies, Video Games, Sports, Biking, Gardening 
+Family time, Golfing, Podcasts, Audiobooks, Movies, Video Games, Sports, Biking, Gardening
 
 
