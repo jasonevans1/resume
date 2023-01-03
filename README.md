@@ -17,7 +17,7 @@
 - Launched a Magento upgrade from 2.2 to 2.4 for a highly customized Magento site. Built new AWS environments and a new Github actions pipeline as part of this project. (PHP, Apache, MySQL, Linux, Github Actions, PHP Deployer, Docker, AWS EC2, AWS RDS, AWS Cloudfront, AWS OpenSearch, AWS Elasticache) 
 - Assisted Magento engineers with launching and maintaining Adobe Commerce Cloud sites.
 
-### Magento Team Lead - DEG, _Remote, _July 2014 - December 2021_
+### Magento Team Lead - DEG, _Remote, July 2014 - December 2021_
 
 - Team lead of the Magento Engineer team at DEG. 
 - Assisted and mentored engineers in designing and implementing Magento sites and extensions.
