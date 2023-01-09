@@ -3,7 +3,7 @@
 
 # Jason Evans
 
-[jason@jasonevans.xyz](mailto:jason@jasonevans@xyz) // from Grimes, Iowa
+[evans022@gmail.com](mailto:evans022@gmail.com) // from Grimes, Iowa
 
 ## Professional Experience
 
