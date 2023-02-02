@@ -24,7 +24,7 @@
 - Mentored engineers in designing and implementing Magento sites and extensions.
 - Improved Magento local environment setup and onboarding using Docker environments. (Docker, Warden)
 - Responsible for code builds and deployments to production environments. (Jenkins, Docker, Linux, Vagrant, Packer, Capistrano, Composer) 
-- Successfully supported of many large and small production Magento Commerce sites. 
+- Successfully supported many large and small production Magento Commerce sites. 
 
 ### Senior Systems Consultant - CDS Global, _Des Moines Iowa, May 1997 - July 2014_
 
