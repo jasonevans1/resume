@@ -24,10 +24,11 @@
 - Mentored engineers in designing and implementing Magento sites and extensions.
 - Improved Magento local environment setup and onboarding using Docker environments. (Docker, Warden)
 - Responsible for code builds and deployments to production environments. (Jenkins, Docker, Linux, Vagrant, Packer, Capistrano, Composer) 
+- Successfully supported of many large and small production Magento Commerce sites. 
 
 ### Senior Systems Consultant - CDS Global, _Des Moines Iowa, May 1997 - July 2014_
 
-- Developer on the enterprise architecture team. Led the research of moving existing applications into the cloud. (PHP, Java)
+- Developer on the enterprise architecture team. Led the research of moving existing legacy applications into the cloud. (PHP, Java)
 - Trained and mentored interns and legacy developers on Magento development and Scrum.
 - Led the creation of a continuous delivery build pipeline for Magento. (Jenkins, Apache Ant, VMware VSphere).
 - Led the design and implementation of numerous projects on the WebSphere Commerce platform. 
