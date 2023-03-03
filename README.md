@@ -9,18 +9,18 @@
 
 ### Magento Development Manager - Merkle, _Remote, December 2021 - present_
 
-- Managed a team of 9 full time Magento engineers. Led career development for each engineer by conducting year-end performance reviews, bi-weekly one on one meetings and weekly team meetings.
+- Managed a team of 9 full-time Magento engineers. Led career development for each engineer by conducting year-end performance reviews, bi-weekly one on one meetings, and weekly team meetings.
 - Designed and developed a Bitbucket pipeline to run automated tests when a pull request is created. (Bitbucket Pipelines, Git, Docker, PHP CodeSniffer, PHPMD, PHPUnit, Cypress, Blackfire Tests)
-- Helped build a team of offshore Magento engineers by interviewing candidates from India.
+- Built new AWS Magento environments and a new Github actions pipeline. (PHP, Apache, MySQL, Linux, GitHub Actions, PHP Deployer, Docker, AWS EC2, AWS RDS, AWS Cloudfront, AWS OpenSearch, AWS Elasticache) 
 - Led multiple Adobe Commerce developer certification exam study groups resulting in multiple engineers gaining their certification.
 - Ensured availability of services and performance of multiple Magento sites. (New Relic, Blackfire.io)
-- Launched a Magento upgrade from 2.2 to 2.4 for a highly customized Magento site. 
-- Built new AWS Magento environments and a new Github actions pipeline. (PHP, Apache, MySQL, Linux, Github Actions, PHP Deployer, Docker, AWS EC2, AWS RDS, AWS Cloudfront, AWS OpenSearch, AWS Elasticache) 
+- Launched a major Magento upgrade from 2.2 to 2.4 for a highly customized Magento site. 
 - Assisted Magento engineers with launching and maintaining Adobe Commerce Cloud sites.
+- Helped build a new team of Magento engineers from India.
 
 ### Magento Team Lead - DEG, _Remote, July 2014 - December 2021_
 
-- Responsible for the career development and leading the engineering practices and standards for the team.
+- Responsible for career development and leading the engineering practices and standards for the team.
 - Mentored engineers in designing and implementing Magento sites and extensions.
 - Improved Magento local environment setup and onboarding using Docker environments. (Docker, Warden)
 - Responsible for code builds and deployments to production environments. (Jenkins, Docker, Linux, Vagrant, Packer, Capistrano, Composer) 
