@@ -3,20 +3,19 @@
 
 # Jason Evans
 
-Software engineer and engineering manager with 25 years of experience in building commerce applications and teams.
+Dedicated and results-driven engineering manager with 27 years of experience in building ecommerce applications and teams. Proven track record of leading high-performing teams to deliver custom ecommerce solutions. Skilled in managing the entire software development lifecycle, from project inception to deployment. Adept at leveraging a diverse technology stack to solve complex problems and passionate about continuous learning. Seeking a challenging role as an engineering manager to contribute leadership and technical expertise to a forward-thinking organization.
 
 [evans022@gmail.com](mailto:evans022@gmail.com) // from Grimes, Iowa
 
 ## Professional Experience
 
-### Magento Development Manager - Merkle, _Remote, December 2021 - present_
+### Adobe Commerce Development Manager - Merkle, _Remote, December 2021 - present_
 
-- Managed a team of 9 full-time Magento engineers. Led career development for each engineer by conducting year-end performance reviews, bi-weekly one on one meetings, and weekly team meetings.
-- Led multiple Adobe Commerce developer certification exam study groups resulting in multiple engineers gaining their certification.
-- Designed and developed a Bitbucket pipeline to run automated tests when a pull request is created.
-- Built new AWS Magento test environments and a new GitHub actions pipeline.
-- Launched a major Magento upgrade from 2.2 to 2.4 for a highly customized Magento site. 
-- Assisted Magento engineers with launching and maintaining Adobe Commerce Cloud sites.
+- Successfully managed a team of engineers in building and deploying custom ecommerce solutions on Adobe Commerce. 
+- Led career development for each engineer by conducting year-end performance reviews, bi-weekly one on one meetings, and weekly team meetings.
+- Led the development and deployment of features, ensuring adherence to lean engineering principles and delivering value to clients.
+- Balanced responsibilities between hands-on development and managerial duties, maintaining a 50/50 split of time allocation.
+- Led the design and build of new Adobe Commerce environments on AWS for an Adobe Commerce upgrade.
 
 ### Magento Team Lead - DEG, _Remote, July 2014 - December 2021_
 
@@ -29,9 +28,9 @@ Software engineer and engineering manager with 25 years of experience in buildin
 
 ### Senior Systems Consultant - CDS Global, _Des Moines Iowa, May 1997 - July 2014_
 
-- Developer on the enterprise architecture team. Led the research of moving existing legacy applications into the cloud.
+- Led the research of moving existing legacy applications into a custom Magento site.
 - Trained and mentored interns and legacy developers on Magento development and Scrum.
-- Led the creation of a continuous delivery build pipeline for Magento. 
+- Led the creation of a continuous integration build pipeline for Magento. 
 
 ## Certifications
 
@@ -44,7 +43,8 @@ Software engineer and engineering manager with 25 years of experience in buildin
 ## Skills
 
 - Languages: PHP, Javascript, SQL, Java
-- Technologies: AWS, GraphQL, Apache, Nginx, MySQL, OpenSearch, Redis, Varnish, Linux, Docker, GitHub Actions, Bitbucket Pipelines, Jenkins, Git, PHP Deployer, PHP CodeSniffer, PHPMD, PHPUnit, Composer, Cypress, Blackfire, New Relic
+- Technologies: AWS, GraphQL, Apache, Nginx, MySQL, OpenSearch, Redis, Varnish, Linux, Docker, Git, PHP Deployer, PHP CodeSniffer, PHPMD, PHPUnit, Composer, Cypress, Blackfire, New Relic, Laravel, Adobe App Builder
+- Tools: GitHub Actions, Bitbucket Pipelines, Jenkins
 
 ## Education 
 
