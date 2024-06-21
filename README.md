@@ -34,6 +34,8 @@ Dedicated and results-driven engineering manager with 27 years of experience in 
 
 ## Certifications
 
+[Adobe Commerce Certified Master Architect](https://www.credly.com/badges/3378e6c3-61da-4944-a0c2-47b60d693c27/public_url), _June 2024_
+
 [AWS Certified Solutions Architect – Associate Level](https://www.credly.com/badges/1edd0b05-5530-4089-919b-7d878c85fdca), _October 2022_
 
 [Adobe Commerce Certified Expert Front End Developer](https://www.credly.com/badges/c12697d1-3dd4-4642-8519-3bd34edf6c83/public_url), _February 2020_
